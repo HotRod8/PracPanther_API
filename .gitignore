@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PP.API/.vs/PP.API/config
+/PP.API/.vs/PP.API/DesignTimeBuild
+/PP.API/.vs/PP.API/FileContentIndex
+/PP.API/bin/Debug/net7.0
+/PP.API/obj
